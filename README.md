@@ -6,19 +6,19 @@ Internet es una red de computadoras que interconecta a millones de dispositivos 
 
 En el curso se procura conocer los problemas que se plantean al interconectar computadores, comprender los modelos de referencia OSI y TCP/IP, y adquirir conocimientos aplicables a los protocolos y aplicaciones en uso.
 
-### Introducción
+### [Introducción](secciones/01_Introduccion.md)
 
-### Flujo de Datos
+### [Flujo de Datos](secciones/02_FlujoDeDatos.md)
 
-### Las Capas
+### [Las Capas](secciones/03_CapasDeRed.md)
 
-#### Capa de Aplicación
+#### [Capa de Aplicación](secciones/04_CapaDeAplicacion.md)
 
-#### Capa de Transporte
+#### [Capa de Transporte](secciones/05_CapaDeTransporte.md)
 
-#### Capa de Red
+#### [Capa de Red](secciones/06_CapaDeRed.md)
 
-#### Capa de Enlace
+#### [Capa de Enlace](secciones/07_CapaDeEnlace.md)
 
 ### Seguridad
 
