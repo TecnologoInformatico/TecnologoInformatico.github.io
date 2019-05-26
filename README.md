@@ -6,19 +6,19 @@ Internet es una red de computadoras que interconecta a millones de dispositivos 
 
 En el curso se procura conocer los problemas que se plantean al interconectar computadores, comprender los modelos de referencia OSI y TCP/IP, y adquirir conocimientos aplicables a los protocolos y aplicaciones en uso.
 
-### [Introducción](secciones/01_Introduccion.md)
+### [Introducción](https://tecnologoinformatico.github.io/redes-de-computadoras/#/secciones/01_Introduccion.md)
 
-### [Flujo de Datos](secciones/02_FlujoDeDatos.md)
+### [Flujo de Datos](https://tecnologoinformatico.github.io/redes-de-computadoras/#/secciones/02_FlujoDeDatos.md)
 
-### [Las Capas](secciones/03_CapasDeRed.md)
+### [Las Capas](https://tecnologoinformatico.github.io/redes-de-computadoras/#/secciones/03_CapasDeRed.md)
 
-#### [Capa de Aplicación](secciones/04_CapaDeAplicacion.md)
+#### [Capa de Aplicación](https://tecnologoinformatico.github.io/redes-de-computadoras/#/secciones/04_CapaDeAplicacion.md)
 
-#### [Capa de Transporte](secciones/05_CapaDeTransporte.md)
+#### [Capa de Transporte](https://tecnologoinformatico.github.io/redes-de-computadoras/#/secciones/05_CapaDeTransporte.md)
 
-#### [Capa de Red](secciones/06_CapaDeRed.md)
+#### [Capa de Red](https://tecnologoinformatico.github.io/redes-de-computadoras/#/secciones/06_CapaDeRed.md)
 
-#### [Capa de Enlace](secciones/07_CapaDeEnlace.md)
+#### [Capa de Enlace](https://tecnologoinformatico.github.io/redes-de-computadoras/#/secciones/07_CapaDeEnlace.md)
 
 ### Seguridad
 
